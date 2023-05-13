@@ -25,9 +25,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // Owner
 global.owner = [
-  ['6285692195658'],
-  ['17752508754'],
-  ['17752508754', 'itsuka', 'itsuka@gmail.com', true]
+['6285823973885', 'Sluksy', 'sychobot@fuwamofu.com', true]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = ['6285692195658'] // Premium user has unlimited limit
@@ -96,19 +94,19 @@ global.sig = 'https://instagram.com/faelfilaa'
 global.syt = 'https://youtube.com/@itsukabotz'
 global.sgh = 'https://github.com/xynabotz'
 global.sgc = 'https://chat.whatsapp.com/ILWJsvByAIw0MKPLJuBHb1'
-global.swa = 'https://wa.me/17752508754'
+global.swa = 'https://wa.me/6285823973885'
 global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 // Pembayaran
-global.pdana = '6281357435388'
+global.pdana = '6285823973885'
 global.povo = '-'
 global.pgopay = '-'
 global.pulsa = '-'
 global.pulsa2 = '-'
-global.psaweria = 'https://saweria.co/AraBotz'
-global.ptrakteer = 'https://trakteer.id/'
-global.psbuzz = 'https://socialbuzz.com/'
+global.psaweria = '-'
+global.ptrakteer = '-'
+global.psbuzz = '-'
 
 // Fake Size
 global.fsizedoc = '99999999999999' // default 10TB
@@ -119,17 +117,17 @@ global.useMulti = true
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = 'itsuka Botz WhatsApp'
-global.wm2 = 'itsuka Botz By Arachibi'
+global.wm = 'Sky Botz WhatsApp'
+global.wm2 = 'Sky Botz By RexxyXD'
 global.bottime = `Time: ${wktuwib}`
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.titlebot = `${global.wm}`
-global.author = 'itsuka Botz' 
-global.packname = 'itsukaBotz\n\nOwner: 0856-9219-5658'
+global.author = 'Sky Botz' 
+global.packname = 'SkyBotz\n\nOwner: 6285823973885'
 global.danied = '✘ 𝗘𝗥𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = '03-02-2006'
-global.nomorown = '17752508754'
-global.nameown = 'itsuka'
+global.ultahowner = '-'
+global.nomorown = '6285823973885'
+global.nameown = 'Rexxy'
 
 // Tampilan
 global.htki =  '⃝▣──「' // Hiasan kiri
